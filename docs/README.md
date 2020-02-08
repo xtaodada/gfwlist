@@ -1,4 +1,4 @@
-<div align="right">Language: <a title="Chinese" href="https://gfw.xtaolink.cn/zh-cn.html">Chinese</a> | English </div>
+<div align="right">Language: <a title="Chinese" href="https://hexo.xtaolink.cn/gfwlist-ng/zh-cn.html">Chinese</a> | English </div>
 <link rel="icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
 
