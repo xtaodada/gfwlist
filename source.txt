@@ -32,6 +32,7 @@
 ||morss.it
 ||stackoverflow.com
 ||telegra.ph
+||rsshub.app
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
